@@ -1,0 +1,27 @@
+.container {
+    width: 485px;
+}
+.left {
+    width: 70%;
+    height: 100px;
+    float: left;
+}
+.right {
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+.left-top {
+    height: 40%;
+}
+.left-bottom {
+    height: 60%;
+}
+.mini-profile {
+    width: 20%;
+    float: left;
+}
+.name {
+    width: 80%;
+    float: left;
+}

@@ -60,6 +60,7 @@
     height: 400px;
     background: pink;
     display: inline-block;
+    vertical-align: top;
 }
 .right {
     width: 80%;

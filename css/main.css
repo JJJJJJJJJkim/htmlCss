@@ -72,5 +72,36 @@
     width: 100%;
     height: 60px;
     background-color: rgb(222, 13, 135);
-    
+}
+.main-background {
+     width: 100%;
+     height: 500px;
+     background-image: url(../img/1.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+     padding-top: 1px;
+}
+.main-title {
+    color: white;
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.introduce {
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+}
+.go-to-mars-button {
+    background-color: white;
+    display: inline-block;
+    color: black;
+    font-size: 22px;
+    border-radius: 7px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 260px;
+    box-shadow: 2px 2px 3px 2px black;
+    border-style: groove;
 }

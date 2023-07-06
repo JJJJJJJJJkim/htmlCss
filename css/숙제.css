@@ -1,5 +1,8 @@
 .container {
     width: 485px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 .left {
     width: 70%;
@@ -24,4 +27,15 @@
 .name {
     width: 80%;
     float: left;
+}
+.navbar li {
+    display: inline-block;
+    width: 70px;
+    text-align: center;
+    background-color: gold;
+    border-radius: 8px;
+}
+.navbar a {
+    font-size: 16px;
+    text-decoration: none;
 }
